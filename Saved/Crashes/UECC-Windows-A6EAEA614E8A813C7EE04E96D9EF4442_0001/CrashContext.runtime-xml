@@ -17,7 +17,7 @@
 		<IsPerforceBuild>false</IsPerforceBuild>
 		<IsWithDebugInfo>true</IsWithDebugInfo>
 		<IsSourceDistribution>false</IsSourceDistribution>
-		<GameName>UE-MyProject5</GameName>
+		<GameName>UE-blenderCubeRevenge</GameName>
 		<ExecutableName>UnrealEditor</ExecutableName>
 		<BuildConfiguration>Development</BuildConfiguration>
 		<GameSessionID />

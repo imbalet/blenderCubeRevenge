@@ -17,7 +17,7 @@
 		<IsPerforceBuild>false</IsPerforceBuild>
 		<IsWithDebugInfo>true</IsWithDebugInfo>
 		<IsSourceDistribution>false</IsSourceDistribution>
-		<GameName>UE-MyProject5</GameName>
+		<GameName>UE-blenderCubeRevenge</GameName>
 		<ExecutableName>UnrealEditor</ExecutableName>
 		<BuildConfiguration>Development</BuildConfiguration>
 		<GameSessionID />
@@ -29,7 +29,7 @@
 		<DeploymentName />
 		<EngineVersion>5.3.1-28051148+++UE5+Release-5.3</EngineVersion>
 		<EngineCompatibleVersion>5.3.1-28051148+++UE5+Release-5.3</EngineCompatibleVersion>
-		<CommandLine>&quot;../../../../../../Users/imbalet/Documents/Unreal Projects/MyProject5/MyProject5.uproject&quot;</CommandLine>
+		<CommandLine>&quot;../../../../../../Users/imbalet/Documents/Unreal Projects/blenderCubeRevenge/blenderCubeRevenge.uproject&quot;</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>ru-RU</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.3-CL-28051148</BuildVersion>
@@ -169,7 +169,7 @@ ntdll</CallStack>
 				<IsCrashed>false</IsCrashed>
 				<Registers />
 				<ThreadID>17620</ThreadID>
-				<ThreadName>FAsyncWriter_MyProject5_2</ThreadName>
+				<ThreadName>FAsyncWriter_blenderCubeRevenge_2</ThreadName>
 			</Thread>
 			<Thread>
 				<CallStack>ntdll 0x00007ffa87f50000 + 9d0e4 KERNELBASE 0x00007ffa85730000 + 230ce UnrealEditor-Core 0x00007ffa23800000 + 6e257e UnrealEditor-Media 0x00007ffa5ae70000 + 523c UnrealEditor-Core 0x00007ffa23800000 + 684e22 UnrealEditor-Core 0x00007ffa23800000 + 678657 KERNEL32 0x00007ffa87010000 + 17614 ntdll 0x00007ffa87f50000 + 526a1</CallStack>
