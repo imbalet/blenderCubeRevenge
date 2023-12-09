@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/imbalet/Documents/Unreal Projects/MyProject5/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/imbalet/Documents/Unreal Projects/MyProject5/Content/spawn.uasset",
+				"C:/Users/imbalet/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/0G/QS4CTG92HYYHUPB4691136.uasset",
+				"C:/Users/imbalet/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/KP/93V4D41GB4R5WRJ0UPCBUX.uasset",
+				"C:/Users/imbalet/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/PV/U5DSJIWXL4SRU7WK9X7D7C.uasset",
+				"C:/Users/imbalet/Documents/Unreal Projects/MyProject5/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/F1/H4L2NRVUH0ARGMJ6TYMWB8.uasset",
+				"C:/Users/imbalet/Documents/Unreal Projects/MyProject5/Content/NewBlueprint.uasset",
+				"C:/Users/imbalet/Documents/Unreal Projects/MyProject5/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset"
+			]
+		}
+	]
+}
